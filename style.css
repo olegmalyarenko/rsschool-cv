@@ -1,0 +1,80 @@
+body {
+  display: block;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+}
+.photo img {
+  width: 300px;
+  height: 300px;
+}
+
+.name {
+  height: 300px;
+  padding-top: 80px;
+
+  vertical-align: center;
+}
+
+.name ul li {
+  align-items: left;
+
+  list-style-type: none;
+}
+.icons {
+  padding-right: 70px;
+}
+
+.contactList {
+  margin-left: -20px;
+}
+
+.region {
+  margin-left: 10px;
+
+  font-weight: italic;
+}
+
+h2,
+.main {
+  line-height: 1.5;
+  text-align: center;
+  ;
+}
+
+p,
+.codeSkills {
+  margin: 0 auto;
+
+  line-height: 1.5;
+}
+.codeSkills {
+  margin-left: 30%;
+
+  text-align: left;
+}
+h1,
+h2,
+p,
+li {
+  font-family: "Gayathri", sans-serif;
+}
+p,
+li {
+  font-size: 18px;
+}
+
+h2 {
+  font-size: 26px;
+}
+
+h1 {
+  font-size: 32px;
+}
+.english {
+  margin-bottom: 30px;
+}
