@@ -29,3 +29,15 @@ I haven't any bad habits, like active lifestyle and travel.
 
 I am only a beginner and have completed only training tasks.
 
+## Education
+
+I finished Frontend Developer course in SkillUp Tranning Centr in june.
+
+After that i finished online courses in Sololern and Codecademy. 
+
+And learned javascript on [Lern Javascript](http://learn.javascript.ru).
+
+## English
+
+I have lerned english in school and university. I have been going to English courses at school [2English](https://2english.by) on Intemediate level since september.
+
